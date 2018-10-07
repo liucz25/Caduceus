@@ -1,5 +1,10 @@
-# Caduceus
+# yuanzi   Caduceus
 Super simple DICOM viewer with Python and Pydicom
+
+zhinengchakanCTtuxiang 
+zhinengtiaochuang
+
+youcankaoyiyi
 
 ## Dependencies
 * Python 3.6.0 (very easy to port back to 2 if necessary)
