@@ -9,6 +9,9 @@
 [remote "gitee"]
 	url = https://gitee.com/liucz25/Super-simple-dicom-viewer.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "origin"]
+	url = https://github.com/liucz25/Super-simple-dicom-viewer.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master
