@@ -1,0 +1,302 @@
+    1  python3
+    2  pip3
+    3  pip3 list
+    4  pip3 install numpy
+    5  pip3 list
+    6  sudo pip3 install numpy
+    7  pip3 list
+    8  sudo pip3 install pillow
+    9  sudo pip3 install ipython
+   10  ipython
+   11  cd Code
+   12  ls
+   13  python3 oval-mask.py
+   14  rm oval-mask
+   15  chmod +x oval-mask.py
+   16  ./oval-mask.py
+   17  \nsudo apt-get install libtiff5-dev libjpeg8-dev zlib1g-dev \\n    libfreetype6-dev liblcms2-dev libwebp-dev tcl8.6-dev tk8.6-dev python-tk
+   18  ./oval-mask.py
+   19  cd Code
+   20  ./oval-mask.py
+   21  cd Code
+   22  ls
+   23  ./oval-mask.py
+   24  cd Code
+   25  ./oval-mask.py
+   26  cd Code
+   27  ./oval-mask.py
+   28  cd Code
+   29  ./oval-mask.py
+   30  ipython\\n
+   31  cd Code
+   32  ./oval-mask.py
+   33  sudo apt-get install xv
+   34  sudo apt-get install imagemagic
+   35  sudo apt-get install imagemagick
+   36  ./oval-mask.py
+   37  cd Code
+   38  ./oval-mask.py
+   39  pip3 install matplotlib
+   40  ipython\n
+   41  ./oval-mask.py
+   42  sudo pip3 install matplotlib
+   43  ./oval-mask.py
+   44  sudo pip3 install python3-tk
+   45  sudo apt-get update
+   46  sudo ape-get install python3-tk
+   47  sudo apt-get install python3-tk
+   48  ./oval-mask.py
+   49  sudo apt-get install -f
+   50  ./oval-mask.py
+   51  sudo apt-get install python3-tk
+   52  ./oval-mask.py
+   53  git clone https://github.com/liucz25/python-dicom-yanjiu.git
+   54  git add .
+   55  git init
+   56  git add .
+   57  git commit -m "oval-mask-ok"
+   58  git config --global user.email "liuchangzheng25@163.com"
+   59  git config --global user.name "liucz25"
+   60  git commit -m "oval-mask-ok"
+   61  git push
+   62  git push master
+   63  git push https://github.com/liucz25/python-dicom-yanjiu.git
+   64  git push master
+   65  git push master master
+   66  git push 
+   67  git push master
+   68  ./oval-mask.py
+   69  cd python-dicom-yanjiu
+   70  ./oval-mask.py
+   71  cd Code
+   72  lsa
+   73  cd ..
+   74  mkdir data
+   75  cd data
+   76  git clone https
+   77  git clone https://github.com/liucz25/data
+   78  ls
+   79  cd data
+   80  ls
+   81  cp ./config.sh ../../Code/.git
+   82  cd  ../../Code/.git
+   83  cd ..
+   84  cp ./.git/config.sh ./
+   85  ./config.sh
+   86  ls
+   87  ./config.sh
+   88  git push
+   89  git push github
+   90  cd .git
+   91  ls
+   92  gedit cO
+   93  gedit config
+   94  cd ..
+   95  git push github
+   96  cd .git
+   97  gedit config
+   98  cd ..
+   99  git push github
+  100  cd ..
+  101  cd data
+  102  git add .
+  103  ./config.sh
+  104  git commit -m "python dicom oval mask ok"
+  105  git push github
+  106  git push gitee
+  107  pip3 install pydicom
+  108  sudo pip3 install pydicom
+  109  cd Code
+  110  ls
+  111  cd python-dicom-yanjiu
+  112  cd ..
+  113  mkdir pydcm
+  114  cd pydcm
+  115  ls
+  116  cd ../..
+  117  mkdir ac
+  118  cd ac
+  119  git clone https://github.com/liucz25/data.git
+  120  cd data
+  121  cd src
+  122  cd python-dicom
+  123  ls
+  124  ipython
+  125  cd ac/data/src/python-dicom
+  126  ls
+  127  ipython
+  128  cd ac/data/src/python-dicom
+  129  ls
+  130  chomd +x b0-b1000-to-acd.py
+  131  ./oval-mask.py 
+  132  chmod +x b0-b1000-to-acd.py
+  133  ,/bo-
+  134  ./b0-b1000-to-acd.py
+  135  cd ..
+  136  ls
+  137  ./config.sh
+  138  git add .
+  139  git commit -m "bh-bl to adc?"
+  140  git push
+  141  git push github
+  142  git push gitee
+  143  sudo pip3 install pandas
+  144  cd ac/data/src/python-dicom
+  145  ls
+  146  ipython
+  147  cd ac/data/src/python-dicom
+  148  ls
+  149  cd ~
+  150  ls
+  151  history
+  152  ipython
+  153  ls
+  154  cd ac/data/src/python-dicom
+  155  ls
+  156  chmod +x ./corr_adc_adf.py 
+  157  ./corr_adc_adf.py
+  158  765\n9980  0.000
+  159  ./corr_adc_adf.py
+  160  git add .
+  161  git commit -m "xiang guan xi shu jisuan 0.996415"
+  162  git push
+  163  git push github
+  164  cd ..
+  165  ls
+  166  ./config.sh
+  167  git push github
+  168  git pull
+  169  git pull ...
+  170  git pull ./
+  171  git push github
+  172  git push gitee
+  173  cd src/python-dicom
+  174  cp corr_adc_adf.py cc.py
+  175  chmod +x ./sandiantu.py
+  176  ./sandiantu.py
+  177  git add .
+  178  git commit -m "sandiantu ok"
+  179  git push github
+  180  git push ./
+  181  git pull ./
+  182  git push github
+  183  git pull ./
+  184  git push github
+  185  cd ..
+  186  ./config.sh
+  187  git push github
+  188  git pull ./
+  189  git push github
+  190  git status
+  191  git push github
+  192  git pull ./
+  193  git add .
+  194  git commit -m "sandiantu ok"
+  195  git push gitee
+  196  cd ..
+  197  cd bc
+  198  git clone https://github.com/liucz25/data.git
+  199  cd data
+  200  ./config.sh
+  201  git add .
+  202  git commit -m "corr xiang guan xishu jishuan wancheng   sandiantu wancheng"
+  203  git push github
+  204  cd ..
+  205  mkdir cc
+  206  cd cc
+  207  git clone https://github.com/liucz25/Super-simple-dicom-viewer.git
+  208  ls
+  209  cd Super-simple-dicom-viewer
+  210  ls
+  211  python3 __main__.py
+  212  sudo pip3 install tk
+  213  sudo pip3 install tkinter
+  214  python3 __main__.py
+  215  sudo pip3 install dicom
+  216  python3 __main__.py
+  217  sudo apt-get install tkinter
+  218  python3
+  219  sudo pip3 install tkinter
+  220  sudo apt-get update
+  221  sudo apt-get install py3-tk
+  222  sudo apt-get install python3-tk
+  223  python3
+  224  cd bc/cc
+  225  ls
+  226  cd Super-simple-dicom-viewer
+  227  ls
+  228  python3 __main__.py
+  229  git pull
+  230  python3 __main__.py
+  231  git push github
+  232  ./config.sh
+  233  git push github
+  234  git add .
+  235  git commit -m "chubupanduan"
+  236  git push github
+  237  git push gitee
+  238  find "board"
+  239  find "b"
+  240  find "B*"
+  241  wget http://labfile.oss.aliyuncs.com/courses/674/images.zip
+  242  unzip images.zip
+  243  touch Board.py
+  244* git pull
+  245* cd ..
+  246* ls
+  247* ./config.sh
+  248* git pull
+  249* mkdir note
+  250* git clone \nhttps://github.com/liucz25/py-note.git
+  251* cd note
+  252* ls
+  253* cd .. |ls
+  254* ls
+  255* cd ..
+  256* ls
+  257* cd py-note
+  258* ls -al
+  259* cd .git
+  260* ls
+  261* gedit config
+  262* git pull
+  263* ls
+  264* cd .git
+  265* gedit config
+  266* git pull
+  267* cd ..
+  268* git pull
+  269* git add .
+  270* git commit -m "tongbu"
+  271* git push github
+  272* ./config.sh
+  273* git push github
+  274* git push gitee
+  275  cd ..
+  276  ls
+  277  ./config.sh
+  278  git add .
+  279  git push github
+  280  git commit -m "huaban chubu"
+  281  git push github
+  282  git push gitee
+  283  ls
+  284  cd huaban
+  285  ls
+  286  chmod +x Board.py
+  287  ./Board.py
+  288  sudo pip3 install pygame
+  289  ./Board.py
+  290* git push gitee
+  291  ./Board.py
+  292  git add .
+  293  git commit -m
+  294  git commit -m "huaban chushihua"
+  295  git push github
+  296  git push gitee
+  297  pip3 install gpcharts
+  298  sudo pip3 install gpcharts
+  299  sudo pip3 install future
+  300  ipyhthon
+  301  ipython
+  302  history

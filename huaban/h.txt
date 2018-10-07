@@ -1,0 +1,6 @@
+from gpcharts import figure
+mp=figure(title="lcz-test")
+mp.plot([1,2,20,15,12,34,2,3,23])
+mp.show()
+history > h.txt
+history -f h.txt

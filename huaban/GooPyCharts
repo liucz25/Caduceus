@@ -1,0 +1,6 @@
+sudo pip3 install gpcharts
+sudo pip3 install future
+
+from gpcharts import figure
+mp=figure(title="lcz-test")
+mp.plot([1,2,20,15,12,34,2,3,23])
